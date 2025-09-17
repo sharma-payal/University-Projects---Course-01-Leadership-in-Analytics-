@@ -1,4 +1,4 @@
-*Overview*
+*Project 1*
 
 This project is part of my coursework in Analytics and Leadership Development. It is designed to provide self-reflection on personal strengths, weaknesses, opportunities, and threats (SWOT) and to assess my capacity to handle both organizational and technical complexity as an aspiring leader in analytics.
 The assignment is divided into two main parts:
